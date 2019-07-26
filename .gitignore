@@ -1,0 +1,10 @@
+node_modules/
+
+assets/avatar
+assets/*.json
+
+.idea/
+
+dist/
+
+package-lock.json
